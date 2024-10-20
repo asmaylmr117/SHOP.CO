@@ -202,7 +202,7 @@ export default function Prodcut() {
                 transition={{ delay: 0.3 }}
                 className='flex-grow'
               >
-                <button onClick={handleSubmit} className='bg-black w-full text-white px-5 py-4 rounded-full flex-grow'>Add to Cart</button>
+                <button onClick={handleSubmit} className='bg-black w-full text-white px-5 py-4 rounded-full flex-grow hover:bg-gray-600  '>Add to Cart</button>
               </motion.div>
             </div>
           </div>
