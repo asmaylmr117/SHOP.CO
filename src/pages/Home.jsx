@@ -51,9 +51,9 @@ export default function Home({ to = '' }) {
             </h1>
 
             <p className="max-w-[550px] text-sm sm:text-base md:text-lg">
-              Browse through our diverse range of meticulously crafted garments, <br className="hidden sm:inline" /> designed to bring out your individuality and cater to your sense of style.
-            </p>
+             Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.
 
+            </p>
             <div className='mt-10'></div>
             <Reavel className='btnReavel flex' btn='w-full lg:w-fit'>
               <Link className="btn w-full lg:w-fit text-center hover:bg-gray-600" to='Shop'>Shop Now</Link>
