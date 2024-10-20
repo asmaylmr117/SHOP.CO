@@ -56,7 +56,7 @@ export default function Home({ to = '' }) {
 
             <div className='mt-10'></div>
             <Reavel className='btnReavel flex' btn='w-full lg:w-fit'>
-              <Link className="btn w-full lg:w-fit text-center" to='Shop'>Shop Now</Link>
+              <Link className="btn w-full lg:w-fit text-center hover:bg-gray-600" to='Shop'>Shop Now</Link>
             </Reavel>
             <div className='mb-10'></div>
             <div className="flex flex-col sm:flex-row flex-wrap justify-center items-center gap-4">
